@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\bin\Debug\MusicKol.exe.config
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\bin\Debug\MusicKol.exe
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\bin\Debug\MusicKol.pdb
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\bin\Debug\BusinessLayer.dll
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\bin\Debug\DataLayer.dll
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\bin\Debug\BusinessLayer.pdb
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\bin\Debug\DataLayer.pdb
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\obj\Debug\MusicKol.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\obj\Debug\MusicKol.Form1.resources
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\obj\Debug\MusicKol.Properties.Resources.resources
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\obj\Debug\MusicKol.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\obj\Debug\MusicKol.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\obj\Debug\MusicKol.csproj.CopyComplete
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\obj\Debug\MusicKol.exe
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\MusicKol\MusicKol\obj\Debug\MusicKol.pdb
